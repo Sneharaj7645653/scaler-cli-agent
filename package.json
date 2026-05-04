@@ -1,0 +1,13 @@
+{
+  "name": "scaler-cli-agent",
+  "version": "1.0.0",
+  "description": "CLI AI Agent to clone the Scaler website",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "groq-sdk": "^1.1.2"
+  }
+}
